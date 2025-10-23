@@ -3,3 +3,4 @@
 /.logfire
 __pycache__/
 *.pyc
+.git

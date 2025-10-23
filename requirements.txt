@@ -1,0 +1,9 @@
+# Requirements for all examples
+logfire
+pydantic-ai
+pydantic
+selenium
+python-dotenv
+
+# Note: example3 uses Selenium with Firefox (geckodriver). Install geckodriver separately
+# and ensure a compatible Firefox is available on your PATH/system.
